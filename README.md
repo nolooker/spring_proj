@@ -1,3 +1,0 @@
-#Click
-
-proj/README.md
